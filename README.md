@@ -21,9 +21,9 @@ GET Get all bookings of Rooms
 
 https://hallbooking-demo.herokuapp.com/getBooking
 
-![image](https://user-images.githubusercontent.com/84057897/164960172-17fa21b9-4ae2-4ef4-a555-cd2d6615d07e.png)
+![image](https://user-images.githubusercontent.com/84057897/164960558-cd5a4754-9817-4ea8-8116-48fa7b6bfd96.png)
 
-![image](https://user-images.githubusercontent.com/84057897/164960289-609c05ac-8587-4077-806e-e88f94f58b21.png)
+![image](https://user-images.githubusercontent.com/84057897/164960579-f42615c4-1a7d-4b06-8ea2-1dc2702f9615.png)
 
 ![image](https://user-images.githubusercontent.com/84057897/164960324-a049ad55-b47c-47c1-862a-1dfec65efed3.png)
 
